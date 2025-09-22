@@ -1,77 +1,59 @@
-# 📊 **Executive Summary – FNP Sales Analysis Dashboard**
+# 📊 FNP Sales Analysis Dashboard
 
-This project presents an interactive **Excel dashboard** that analyzes sales performance for **Ferns N Petals (FNP)**.  
-The dashboard provides a clear overview of **revenue, customer behavior, seasonal trends, and top-performing products/cities**, enabling **data-driven business decisions**.
+This project presents an interactive **Sales Analysis Dashboard** built in **Excel** for **Ferns N Petals (FNP)**.  
+The dashboard provides a clear overview of revenue, customer behavior, seasonal trends, and top-performing products/cities, enabling **data-driven business decisions**.
 
-## 🎯 **Project Objective**
+## 🚀 Project Overview
 
-To analyze FNP sales data and uncover insights on:
+The main goal of this project is to analyze FNP’s sales data and uncover actionable insights such as:
 
 - Customer spending patterns  
-- Seasonal and occasion-based revenue drivers  
-- Product category performance  
-- Regional market opportunities  
-- Growth trends over time  
+- Seasonal and festival-based trends  
+- High-performing products and categories  
+- Top cities contributing to sales  
+- Revenue distribution by time of day  
 
-The dashboard was built using **Excel PivotTables, PivotCharts, Slicers, and GETPIVOTDATA** for interactivity and automation.
+## 🖼️ Dashboard Preview  
 
-## 🔑 **Key Insights**
+![FNP Sales Dashboard](fnp_dashboard.jpg)
 
-### 💰 **Revenue Performance**
-- **Total revenue**: ₹35,20,984  
-- **Average customer spending**: ₹3,520.98  
-- **Average order delivery difference**: 5.53 days  
+## 📌 Key Insights
 
-### 🎉 **Occasion-based Sales**
-- Highest revenue from **Anniversary** and **Raksha Bandhan**  
-- **Diwali** and **Holi** also drive significant seasonal sales  
+### 🔹 Top Metrics
+- **Total Revenue:** ₹ 35,20,984  
+- **Average Order Delivery Difference:** 5.53 days  
+- **Average Customer Spending:** ₹ 3,520.98  
 
-### 📦 **Category Insights**
-- **Colors** contribute the highest revenue among categories  
-- Other strong performers: **Cake, Mugs, Sweets**  
+### 🔹 Revenue Breakdown
+- **By Occasion:** Highest sales during **Anniversaries, Diwali, and Holi**  
+- **By Category:** **Colors, Cakes, and Sweets** dominate sales  
+- **By Month:** Peaks in **March** and **September**  
+- **By Hour:** Strong order activity between **12 PM – 9 PM**  
 
-### 🏆 **Top Products**
-- Exercitationem Pack  
-- Expeditia Gift  
-- Fugae Set  
-- Magnam Set  
-- Nihil Box  
+### 🔹 Top Products
+- **E Set** and **Hamper Pack** lead product-wise revenue  
 
-### 🌍 **Regional Insights**
-- **Delhi, Jaipur, and Pune** are top-performing customer bases  
-- High order volumes + strong sales → **best candidates for store expansion**  
+### 🔹 Top Cities
+- High order volumes from **Delhi, Mumbai, Hyderabad, and Kolkata**  
 
-### ⏰ **Time Trends**
-- Monthly spikes in **February, August, and October** (festivals/occasions)  
-- **Evening hours** show consistent peak order times  
+## ⚙️ Tools & Technologies Used
+- **Microsoft Excel** (Pivot Tables, Charts, Slicers, Interactive Filters)  
+- **Data Cleaning & Preparation** in Excel  
+- **Visualization Techniques** for trends and insights  
 
-## 🛠 **Tools & Techniques**
+## 📂 Project Files
+- `FNP_Sales_Dashboard.xlsx` → Interactive dashboard file  
+- `FNP_Sales_Report.docx` → Supporting documentation (if any)  
+- `README.md` → Project description  
 
-- **Excel** → PivotTables, PivotCharts, Slicers, Timeline filters  
-- **Data Cleaning** → Ensured consistency of sales, product, and date fields  
-- **Formulas Used** → GETPIVOTDATA, SUMIFS, calculated KPIs  
-- **Visualization** → Interactive charts for category, occasion, time, and regional analysis  
+## 💡 Future Enhancements
+- Automating data refresh using **Power Query**  
+- Exporting the dashboard to **Power BI** for more advanced interactivity  
+- Adding **predictive analytics** for sales forecasting  
 
-## 📌 **Business Recommendations**
-
-Based on insights, the **top three recommended cities for new store openings** are:
-
-🏆 **Pune** → Highest total revenue, strong customer spending, and low rent per customer.  
-🏆 **Delhi** → Largest customer base (~68), high consumer base, reasonable rent.  
-🏆 **Jaipur** → High customer count (69), strong average sales, very low rent per customer.  
-
-## 📷 **Dashboard Preview**
-
-Here’s a snapshot of the FNP Sales Analysis Dashboard:  
-
-![FNP Sales Dashboard](Dashboard.jpg)
-
-## 👩‍💻 **Author**
-
-**Manasa Pelluru**  
-Graduate Student | Software Engineering & Data Analytics  
-Passionate about **Data Analysis, Cloud Technologies, and Business Intelligence**  
+## 👩‍💻 Author
+Developed by **Manasa Reddy**  
+Graduate Student in **Computer Science – Software Engineering & Data Analytics**  
 
 
-✨ *This project demonstrates how data analytics with Excel can translate raw sales data into actionable insights for strategic decision-making.*
 
