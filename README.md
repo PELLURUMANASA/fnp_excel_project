@@ -43,7 +43,6 @@ The main goal of this project is to analyze FNP’s sales data and uncover actio
 
 ## 📂 Project Files
 - `FNP_Sales_Dashboard.xlsx` → Interactive dashboard file  
-- `FNP_Sales_Report.docx` → Supporting documentation (if any)  
 - `README.md` → Project description  
 
 ## 💡 Future Enhancements
